@@ -1,6 +1,6 @@
 # Nexter
 
-Trillo is a responsive fictional all in one booking app. This is only the UI.
+Trillo is a responsive fictional all in one booking app. This is only the UI. It's one of the projects of The Advanced CSS and SASS Course on Udemy taught by Jonas Schmedtmann.
 
 ## 💻 Build with
 
